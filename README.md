@@ -1,12 +1,3 @@
-✓ 👋 Hi, I’m @Burkakoo
-✓ 👀 I’m interested in programming for 
- website and application development!
-✓ 🌱 I’m currently learning Software
-  Engineering at Haramaya University 
-✓ 💞️ I’m looking to collaborate on ...
-✓ 📫 How to reach me phone number 0915200879
-     email: burkamuhammed12@gmail.com
-<!---
-Burkakoo/Burkakoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Burka Muhammed Hussein
+## Software Enginer 
+With over 2 years of experience in developing high-quality web and mobile applications, I specialize in building scalable, user-friendly digital solutions. My expertise spans full-stack web development, UI/UX design, and mobile app deployment, ensuring seamless and engaging user experiences. I have worked with various modern technologies, frameworks, and cloud platforms to develop robust and efficient applications tailored to business needs.
