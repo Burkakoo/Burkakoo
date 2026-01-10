@@ -1,5 +1,5 @@
 <!-- 🧑‍💻 Hero / Intro -->
-<p align="center" style="font-weight:600; letter-spacing:0.1em; font-size:16px;"> Software Enginer</p>
+<p align="center" style="font-weight:600; letter-spacing:0.1em; font-size:25px;"> Software Enginer</p>
 <p align="center",>
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3500&pause=900&color=00A676&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Burka+Muhammed;Full-Stack+Web+Developer;Crafting+Clean+%26+Scalable+Web+Experiences" 
