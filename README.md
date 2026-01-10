@@ -1,6 +1,5 @@
 <!-- 🧑‍💻 Hero / Intro -->
-<p align="center" style="font-weight:800; letter-spacing:0.15em; font-size:70px;colo:#A5F4FF;""> Software Enginer</p>
-<p align="center",>
+<p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3500&pause=900&color=00A676&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Burka+Muhammed;Full-Stack+Web+Developer;Crafting+Clean+%26+Scalable+Web+Experiences" 
     alt="Typing SVG" 
@@ -8,7 +7,7 @@
 </p>
 
 <p align="center" style="font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; color:#E5E7EB;">
-  Building <strong>modern</strong>, <strong>scalable</strong>, and <strong>user-friendly</strong> web applications and mobileapp<br>
+  Building <strong>modern</strong>, <strong>scalable</strong>, and <strong>user-friendly</strong> web applications.<br>
   I turn coffee into code and ideas into reality 🚀<br>
   Always learning, always building.
 </p>
@@ -30,7 +29,7 @@
 <!-- 🔗 CTA Buttons -->
 <div align="center">
   <a href="https://my-portfolio-93uu.onrender.com">
-    <img
+    <img 
       src="https://img.shields.io/badge/🔗%20Explore%20My%20Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" 
       alt="Portfolio"
     />
@@ -74,6 +73,7 @@
   </div>
 
   <!-- Frontend Card -->
+  <div style="
     display:inline-block;
     padding:16px 20px;
     margin:8px;
@@ -170,7 +170,7 @@
 <p align="center">
   <a href="https://bit.ly/ghprofile123">
     <img
-      src="https://komarev.com/ghpvc/?username=yihune1234&label=Profile%20Views&color=6366F1&labelColor=020617&style=for-the-badge"
+      src="https://komarev.com/ghpvc/?username=Burkakoo&label=Profile%20Views&color=6366F1&labelColor=020617&style=for-the-badge"
       alt="Views"
       style="
         border-radius: 14px;
