@@ -2,7 +2,7 @@
 #Software Enginer
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3500&pause=900&color=00A676&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Yihune+Belay;Full-Stack+Web+Developer;Crafting+Clean+%26+Scalable+Web+Experiences" 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3500&pause=900&color=00A676&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Burka+Muhammed;Full-Stack+Web+Developer;Crafting+Clean+%26+Scalable+Web+Experiences" 
     alt="Typing SVG" 
   />
 </p>
@@ -161,7 +161,7 @@
 </h2>
 
 <p align="center" style="font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; color:#E5E7EB;">
-  <strong>📧</strong> yihunebelay859@gmail.com<br>
+  <strong>📧</strong> burkamuhammed12@gmail.com<br>
   <strong>🌍</strong> Ethiopia • Open to collaborations & opportunities!<br>
   <em style="color:#A5B4FC;">"Code is poetry – let's write something beautiful together." ✨</em>
 </p>
