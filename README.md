@@ -171,7 +171,7 @@
 <p align="center">
   <a href="https://bit.ly/ghprofile123">
     <img
-      src="https://Github.com/?username=Burkakoo&label=Profile%20Views&color=6366F1&labelColor=020617&style=for-the-badge"
+      src="https://komarev.com/ghpvc/?username=Burkakoo&label=Profile%20Views&color=6366F1&labelColor=020617&style=for-the-badge"
       alt="Views"
       style="
         border-radius: 14px;
