@@ -532,19 +532,9 @@
 </p>
 
 <!-- 👁️ Profile Views Badge -->
+<!-- 👁️ Profile Views -->
 <p align="center">
-  <a href="https://bit.ly/ghprofile123">
-    <img
-      src="https://komarev.com/ghpvc/?username=Burkakoo&label=Profile%20Views&color=6366F1&labelColor=020617&style=for-the-badge"
-      alt="Views"
-      style="
-        border-radius: 14px;
-        box-shadow: 0 18px 45px -18px rgba(99,102,241,0.75);
-        transform: translateY(0);
-        transition: all 0.45s cubic-bezier(0.34, 1.56, 0.64, 1);
-      "
-      onmouseover="this.style.transform='translateY(-6px) scale(1.02)'; this.style.boxShadow='0 26px 60px -20px rgba(99,102,241,0.90)'"
-      onmouseout="this.style.transform='translateY(0) scale(1)'; this.style.boxShadow='0 18px 45px -18px rgba(99,102,241,0.75)'"
-    />
+  <a href="https://github.com/Burkakoo">
+    <img src="https://komarev.com/ghpvc/?username=Burkakoo&label=Profile%20Views&color=4A4E69&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
