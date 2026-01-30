@@ -533,10 +533,10 @@
 
 <!-- 👁️ Profile Views Badge -->
 <p align="center">
-  <a href="https://github.com/Burkakoo">
+  <a href="https://bit.ly/ghprofile123">
     <img
-      src="https://komarev.com/ghpvc/?username=Burkakoo&label=Visitors&color=6366F1&style=for-the-badge"
-      alt="Profile Views"
+      src="https://komarev.com/ghpvc/?username=Burkakoo&label=Profile%20Views&color=6366F1&labelColor=020617&style=for-the-badge"
+      alt="Views"
       style="
         border-radius: 14px;
         box-shadow: 0 18px 45px -18px rgba(99,102,241,0.75);
