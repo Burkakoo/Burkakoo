@@ -2,9 +2,9 @@
 <h2 align="center" style="font-family: 'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, sans-serif; color:#2A2D43; letter-spacing:0.05em; font-weight:600;">SOFTWARE ENGINEER</h2>
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=32&duration=3500&pause=900&color=2A2D43&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Burka+Muhammed;Full-Stack+Web+Developer;Building+Scalable+Solutions" 
+    src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&weight=600&size=32&duration=3500&pause=900&color=90EE90&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Burka+Muhammed;Full-Stack+Web+Developer;By+ASP.NET+Core;Building+Scalable+Solutions" 
     alt="Typing SVG" 
-  />
+/>
 </p>
 
 <p align="center" style="font-family: 'Segoe UI', system-ui, -apple-system, BlinkMacSystemFont, sans-serif; color:#4A4E69; line-height:1.6;">
