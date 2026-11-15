@@ -22,7 +22,7 @@
 
 <!-- 🎓 Status Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/SOFTWARE_ENGINEERING-4th_Year-2A2D43?style=for-the-badge&logo=book&logoColor=white" alt="Student" />
+  <img src="https://img.shields.io/badge/SOFTWARE_ENGINEERING-5th_Year-2A2D43?style=for-the-badge&logo=book&logoColor=white" alt="Student" />
   <img src="https://img.shields.io/badge/Specialization-Full_Stack-4A4E69?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Specialization" />
   <img src="https://img.shields.io/badge/Focus-Scalable_Systems-6C6F8A?style=for-the-badge&logo=azurefunctions&logoColor=white" alt="Focus" />
 </p>
